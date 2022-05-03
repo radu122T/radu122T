@@ -8,5 +8,5 @@ let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.jS']
 
 📫 How to reach me:
 
-radu.cudalb@yahoo.com
+radu.cudalb@yahoo.ro
 
