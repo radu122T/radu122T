@@ -1,12 +1,12 @@
-Hello Friend
 # 💫 About Me:
-Hi! I'm Radu, welcome to my GitHub.
+
+Hello visitor!
 
 My name is Radu and I like to code! I develop web applications. You can track my progress on this github!
 
 🌱 My current languages...
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/radu-cudalb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radu-cudalb) 
 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raduStefan122) 
 
