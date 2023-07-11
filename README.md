@@ -3,6 +3,7 @@
 Hello visitor!
 
 My name is Radu and I like to code! I develop web applications. You can track my progress on this github!
+
 <br>🔭 I’m currently working on motionmask.ai<br><br>🌱 I’m currently learning SvelteJs<br>
 
 ## 🌐 Socials:
