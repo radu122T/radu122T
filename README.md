@@ -3,7 +3,7 @@
 Hello visitor!
 
 My name is Radu and I like to code! I develop web applications. You can track my progress on this github!
-🔭 I’m currently working on motionmask.ai<br>🌱 I’m currently learning SvelteJs<br>
+<br>🔭 I’m currently working on motionmask.ai<br><br>🌱 I’m currently learning SvelteJs<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radu-cudalb) 
