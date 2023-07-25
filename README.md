@@ -1,10 +1,16 @@
 # 💫 About Me:
 
-Hello visitor!
+Hello! I'm a Software Engineer currently working at Hyperfy as a Junior Full Stack Developer. My work involves developing and maintaining microservices using TypeScript, NestJS, PostgreSQL, and ReactJS. I've participated in projects including an interactive map application and a security app, while also contributing to the motionmask.ai project.
 
-My name is Radu and I like to code! I develop web applications. You can track my progress on this github!
+I'm experienced in JavaScript, TypeScript, React, NestJS, SASS, CSS, PostgreSQL, Swagger, Postman, Docker, ReduxJs, Git, Jest, Figma, and Jira.
 
-<br>🔭 I’m currently working on motionmask.ai<br><br>🌱 I’m currently learning SvelteJs<br>
+I hold a Master's Degree and a Bachelor's Degree in Engineering from the University Politehnica of Bucharest.
+
+I speak English, and some French.
+
+Although I'm currently employed at Hyperfy, I'm open to new opportunities in both back-end and front-end development.
+
+For more information about my skills and experience, please check my CV. Additionally, you can view my recommendation letter from Hyperfy which will provide more insight into my capabilities.
 
 CV: https://radu.tiiny.site/
 
